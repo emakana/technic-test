@@ -1,0 +1,7 @@
+xyz/foobar/Activity.class
+xyz/foobar/service/DiffEngine.class
+xyz/foobar/Diff.class
+xyz/foobar/service/DiffService.class
+xyz/foobar/DiffException.class
+xyz/foobar/renderer/DiffRendererImpl.class
+xyz/foobar/renderer/DiffRenderer.class
